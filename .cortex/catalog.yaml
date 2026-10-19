@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "route-optimization-service"
+  x-cortex-tag: "route-optimization-service"
+  x-cortex-description: "Real-time multi-stop routing and resequencing"
+  x-cortex-owners:
+    - type: group
+      name: "Last Mile Delivery Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001403"
+    apm_name: "Delivery & Route Management"
+    cost_center: "CC-4411"
